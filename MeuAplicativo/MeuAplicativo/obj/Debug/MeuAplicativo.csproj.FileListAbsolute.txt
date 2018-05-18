@@ -1,0 +1,7 @@
+C:\Users\Alison\source\repos\MeuAplicativo\MeuAplicativo\obj\Debug\MeuAplicativo.csprojResolveAssemblyReference.cache
+C:\Users\Alison\source\repos\MeuAplicativo\MeuAplicativo\obj\Debug\MeuAplicativo.csproj.CoreCompileInputs.cache
+C:\Users\Alison\source\repos\MeuAplicativo\MeuAplicativo\bin\Debug\MeuAplicativo.exe.config
+C:\Users\Alison\source\repos\MeuAplicativo\MeuAplicativo\bin\Debug\MeuAplicativo.exe
+C:\Users\Alison\source\repos\MeuAplicativo\MeuAplicativo\bin\Debug\MeuAplicativo.pdb
+C:\Users\Alison\source\repos\MeuAplicativo\MeuAplicativo\obj\Debug\MeuAplicativo.exe
+C:\Users\Alison\source\repos\MeuAplicativo\MeuAplicativo\obj\Debug\MeuAplicativo.pdb
